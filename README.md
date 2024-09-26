@@ -1,0 +1,1 @@
+<img src="./src/image/{EEDFB9C2-92C6-4BC3-9812-9ED4F81B5FF7}.png">
